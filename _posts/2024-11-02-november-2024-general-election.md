@@ -59,22 +59,22 @@ drones) for smart policing to SFPD.
 
 Many who object to Mayor Breed's tenure point to the current state of the city, even magnifying a
 message of fear to draw support ([looking at you, Mark Farrell][6]). And to be sure, there's a lot
-that isn't going well in the city- it remains unafforable even as commercial real estate is in a bad
-position, and homelessness, while in a much better place than it was during the pandemic, remains a
-highly-visible concern. But holding London Breed responsible for all of this implies a level of
-power usually reserved for the divine. Commercial real estate is in a bad place because it was fully
-reliant on tech industry taxes coming from downtown, itself designed for a level of foot traffic
-driven by a 5-days in office paradigm that we may never see again. Homelessness is bad in the city
-for so many reasons- housing, healthcare, drugs, social support- none of which are controlled by the
-mayor's office. If fact, San Francisco's homelessness problem [is on par][7] with other west coast
-cities of similar size- part of our problem is simply the visibility of the situation due to the
-density of our urban environment. Furthermore, the degree to which mayor breed has an effect on
-these gigantic issues has been positive- homelessness is in a [much better place][8] now than it was
-during the pandemic, [crime has dropped][9], and the mayor continues to push [downtown
-revitalization programs][10].  Rather than holding an elected official responsible for events
-outside their control, I think it more relevant to look at how they responded- Mayor Breed has led
-us successfully through a dark time in our city's history, pushing good policy through a hostile
-Board of Supervisors, holding consistently to a message of hope for the future.
+that isn't going well in the city- it remains unaffordable even as commercial real estate is in a
+bad position, and homelessness, while in a much better place than it was during the pandemic,
+remains a highly-visible concern. But holding London Breed responsible for all of this implies a
+level of power usually reserved for the divine. Commercial real estate is in a bad place because it
+was fully reliant on tech industry taxes coming from downtown, itself designed for a level of foot
+traffic driven by a 5-days in office paradigm that we may never see again. Homelessness is bad in
+the city for so many reasons- housing, healthcare, drugs, social support- none of which are
+controlled by the mayor's office. If fact, San Francisco's homelessness problem [is on par][7] with
+other west coast cities of similar size- part of our problem is simply the visibility of the
+situation due to the density of our urban environment. Furthermore, the degree to which mayor breed
+has an effect on these gigantic issues has been positive- homelessness is in a [much better
+place][8] now than it was during the pandemic, [crime has dropped][9], and the mayor continues to
+push [downtown revitalization programs][10].  Rather than holding an elected official responsible
+for events outside their control, I think it more relevant to look at how they responded- Mayor
+Breed has led us successfully through a dark time in our city's history, pushing good policy through
+a hostile Board of Supervisors, holding consistently to a message of hope for the future.
 
 [1]: https://www.reddit.com/r/sanfrancisco/comments/1bev359/comment/kuwpb5i/
 [2]: https://www.sfchronicle.com/sf/article/Mayor-Breed-moves-to-close-JFK-Drive-to-cars-17004642.php
@@ -94,8 +94,8 @@ TODO: Discuss corruption allegations
 
 I found the [Chronicle endorsement][1] of Lurie to be surprising, but somewhat convincing, even if I
 don't accept their criticism of Mayor Breed. I like that he's aggressive on pushing interim housing
-for homelessness and supports relief for strugging small businesses in the city. I like that [he
-supports the city's current housing element plan][2], which is to develop midrise (6-8 story)
+for homelessness and supports relief for struggling small businesses in the city. I like that [he
+supports the city's current housing element plan][2], which is to develop mid-rise (6-8 story)
 housing _throughout_ the city, the so-called "Paris model".
 
 I don't like his stance on transit- he supports [returning rideshare to car-free Market][3], which
@@ -108,7 +108,7 @@ Finally, I really don't like his [complete lack of experience][5]. There is an a
 wouldn't be beholden to political relationships, as he supposedly has no plans for a future
 political career.  However, it is just as easy to say that, with no experience in government and
 very little experience running any large organizations, he would be easy pickings for special
-interests and entrenched beaurocrats. This is likely [what happened to Ed Lee][6], whose
+interests and entrenched bureaucrats. This is likely [what happened to Ed Lee][6], whose
 inexperience as an elected official led him to [trust the wrong people][7]. And Mayor Lee still had
 decades of experience as a city employee to draw from, experience that Lurie lacks. Plus, running a
 city is complicated work, and relying on established relationships to get things done can be
@@ -186,11 +186,10 @@ it." %}
 {% include strong-no.html content="This is just silly." %}
 
   - Competing measure to Prop D sponsored by Peskin.
-  - Peskin is excellent at using complicated beaurocracy to wield power and [push his personal
-    priorities through][1] (Chron bob's donuts), so this measure is very much in line with his
-    governing methods.
-  - Creates another committe without actually committing to do anything.
-  - [Relevant XKCD](2)
+  - Peskin is excellent at using complicated bureaucracy to wield power and [push his personal
+    priorities through][1], so this measure is very much in line with his governing methods.
+  - Creates another committee without actually committing to do anything.
+  - [Relevant XKCD][2]
 
 [1]: https://sfstandard.com/opinion/2024/07/08/what-would-it-look-like-if-aaron-peskin-became-mayor-ask-bobs-donuts/
 [2]: https://xkcd.com/927/
@@ -217,7 +216,7 @@ in the short term." %}
 #### I: More Pension for Nurses
 {% include weak-no.html content="They already got pension extensions in this years strike." %}
 
-#### J: Combine a Bunch of Departments Managine Kid Stuff into One
+#### J: Combine a Bunch of Departments Managing Kid Stuff into One
 {% include strong-yes.html content="A simpler structure for better oversight and efficiency" %}
 
 #### K: New Ocean Beach Promenade!!!
@@ -252,7 +251,7 @@ in the short term." %}
 
 #### 5: Chip Away at CA's Most Terrible Law
 
-#### 6: Disallow Involuntary / Unpaid Laber in CA Prisons
+#### 6: Disallow Involuntary / Unpaid Labor in CA Prisons
 {% include strong-yes.html content="Vote yes" %}
 
 #### 32: Minimum Wage Bump
