@@ -236,6 +236,8 @@ it." %}
     this isn't likely to be the only chance to do this. And, in addition to being a Breed supporter,
     I hold SPUR in extremely high regard, so I am very willing to believe that they will do a better
     job writing their proposition than the Farrell campaign did for Prop D.
+  - The limit of 65 must be maintained going forward, which might prevent further bloat but will
+    also cause ongoing rigidity.
   - However- commission reform in general seems like a pretty excellent thing to do, and this
     measure would do it one way or another. Legislature would most likely find ways to shore up
     critical losses, as well.
