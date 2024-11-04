@@ -206,10 +206,6 @@ to all of us.
 [14]: https://www.nopropk.com/endorsements
 [15]: https://sfstandard.com/2024/02/13/market-street-san-francisco-doom-loop-mark-farrell/
 
-- Corruption https://sfstandard.com/2024/10/07/sf-mayors-criminal-investigation-mark-farrell/
-- Corruption 2 https://missionlocal.org/2024/07/see-how-they-run-farrells-questionable-campaign-ethics-history/
-- Corruption 3 https://www.sfchronicle.com/politics/article/mark-farrell-loan-disclosure-house-19808908.php
-
 ### Props
 
 #### A: School Improvement and Safety Bond
