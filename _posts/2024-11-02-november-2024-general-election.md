@@ -2,7 +2,7 @@
 layout: post
 title:  "November 2024 General Election"
 date:   2024-11-02 12:08:07 -0700
-categories: jekyll update
+categories: guide
 ---
 
 ## Priorities and Disclosures

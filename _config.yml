@@ -28,6 +28,8 @@ url: "https://wbjacks.github.io" # the base hostname & protocol for your site, e
 #twitter_username: jekyllrb
 github_username: wbjacks
 
+permalink: "/:title"
+
 # Build settings
 theme: minima
 plugins:
