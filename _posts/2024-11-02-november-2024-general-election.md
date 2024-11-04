@@ -5,7 +5,7 @@ date:   2024-11-02 12:08:07 -0700
 categories: guide
 ---
 
-## Priorities and Disclosures
+# Priorities and Disclosures
 
 I am, first and foremost, an urbanist. I grew up in a very car-focused Texas suburb, but have now
 lived in San Francisco for about 11 years, mostly without a car (I bought my first car this year, in
@@ -31,7 +31,7 @@ Things I support but consider less urgent:
 I am a regular donor to SF YIMBY, Walk SF, and the SF Bike Coalition. I also donated to the London
 Breed for Mayor campaign this year.
 
-## Method
+# Method
 
 I don't not vote, and I think it is the duty of all citizens to participate. As such (pending time,
 as I am writing this pretty late!) I will try to put down an endorsement on everything. I will use a
@@ -42,11 +42,11 @@ In an effort to support the reader doing their own research, I will do my best t
 my comments. Time permitting, I'll also include a list of additional resources that I think are
 quality guides to the politics of the city.
 
-## City
+# City
 
-### Elected Offices
+## Elected Offices
 
-#### Mayor
+### Mayor
 
 {% include strong-endorse.html content="#1 London Breed" %}
 
@@ -138,7 +138,7 @@ perspective.
 [6]: https://www.sfexaminer.com/news/wire-tapes-indicate-mayor-lee-was-unaware-of-illegal-campaign-contribution/article_32848baa-00f5-576a-9d3f-ee56e2a4a2cb.html
 [7]: https://missionlocal.org/2020/06/mohammed-nuru-investigation-public-works-inked-10-5m-worth-of-contracts-with-no-discernible-process-two-went-to-walter-wongs-companies/
 
-*Why not Farrell?*
+#### Why not Farrell?
 
 I'll start with the most important thing: I don't think Mark Farrell's vision for the city is
 aligned with my own, nor that of any real urbanist. He is strongly against the [city's proposal][8]
@@ -206,18 +206,18 @@ to all of us.
 [14]: https://www.nopropk.com/endorsements
 [15]: https://sfstandard.com/2024/02/13/market-street-san-francisco-doom-loop-mark-farrell/
 
-### Props
+## Props
 
-#### A: School Improvement and Safety Bond
+### A: School Improvement and Safety Bond
 {% include strong-yes.html content="Schools need infrastructure improvement, this is a good way to pay for
 it." %}
 
-#### B: Healthcare, Streets, and Shelter Bond
+### B: Healthcare, Streets, and Shelter Bond
 {% include strong-yes.html content="Vote yes" %}
 
-#### C: Inspector General to Investigate Fraud
+### C: Inspector General to Investigate Fraud
 
-#### D: Limit City to 64 Commissions
+### D: Limit City to 64 Commissions
 {% include weak-yes.html content="Tough one, but I am not letting perfect be the enemy of good." %}
 
   - [By all accounts][1] this measure was shoddily thrown together by the Farrell campaign
@@ -248,100 +248,153 @@ it." %}
 [4]: https://www.sfexaminer.com/news/politics/sf-mayor-london-breed-pushes-good-governance-reform-actions/article_81a0f438-6726-11ef-9833-33b274d741d6.html
 
 
-#### E: Make a Commission to Evaluate Commissions
+### E: Make a Commission to Evaluate Commissions
 {% include strong-no.html content="This is just silly." %}
 
   - Competing measure to Prop D sponsored by Peskin.
   - Peskin is excellent at using complicated bureaucracy to wield power and [push his personal
-    priorities through][5], so this measure is very much in line with his governing methods.
+    priorities through][1], so this measure is very much in line with his governing methods.
   - Creates another committee without actually committing to do anything.
-  - [Relevant XKCD][6]
+  - [Relevant XKCD][2]
 
-[5]: https://sfstandard.com/opinion/2024/07/08/what-would-it-look-like-if-aaron-peskin-became-mayor-ask-bobs-donuts/
-[6]: https://xkcd.com/927/
+[1]: https://sfstandard.com/opinion/2024/07/08/what-would-it-look-like-if-aaron-peskin-became-mayor-ask-bobs-donuts/
+[2]: https://xkcd.com/927/
 
-#### F: Deferred SFPD Retirement for Extra Pay
+### F: Deferred SFPD Retirement for Extra Pay
 {% include strong-yes.html content="Good safeguards and reasonable way to buffer the police force
 in the short term." %}
 
-  - We have a [significant police shortage][7] that is a priority to reduce for pretty much all of
+  - We have a [significant police shortage][1] that is a priority to reduce for pretty much all of
     the serious mayoral candidates.
   - This ballot measure allows Police to work past their typical retirement date to buffer the force
     reduction as we work to improve the recruit pipeline
   - Officers would work at a slightly reduced pay, and there are [reasonable measures to prevent
-    fraud][8]
+    fraud][2]
   - Expires in 5 years unless action is taken by the Board of Supervisors
 
-[7]: https://www.sf.gov/sites/default/files/2024-01/PoliceCommission2724-STAFFING%20PRESENTATION%202023%20-%2020240108.pdf
-[8]: https://growsf.org/voter-guide/#prop-f
+[1]: https://www.sf.gov/sites/default/files/2024-01/PoliceCommission2724-STAFFING%20PRESENTATION%202023%20-%2020240108.pdf
+[2]: https://growsf.org/voter-guide/#prop-f
 
-#### G: Subsidies for Certain Categories of Low-Income Housing
+### G: Subsidies for Certain Categories of Low-Income Housing
 
-#### H: More Pension for Firefighters
+### H: More Pension for Firefighters
 
-#### I: More Pension for Nurses
+### I: More Pension for Nurses
 {% include weak-no.html content="" %}
 
-#### J: Combine a Bunch of Departments Managing Kid Stuff into One
+### J: Combine a Bunch of Departments Managing Kid Stuff into One
 {% include strong-yes.html content="A simpler structure for better oversight and efficiency" %}
 
-#### K: New Ocean Beach Promenade!!!
+### K: New Ocean Beach Promenade!!!
 {% include strong-yes.html content="Parks good, road crumbling into the sea bad." %}
 
-#### L: Tax Rideshare to Fund Muni Operational Costs
+  - The current compromise is that the highway along Ocean beach from Lincoln to Sloat closes to
+    cars on weekends. This compromise expires next year, at which point it will revert to being a
+    highway
+  - With just the weekend compromise, the promenade is the [3rd most visited park in the city][1],
+    separately from Ocean Beach itself!
+  - The portion of great highway south of Sloat is [already scheduled][2] to be closed in 2026 due
+    to erosion.
+  - Traffic mitigation work has [already been completed][3] in anticipation of the Sloat closure
+    redirecting great highway traffic to Sunset Blvd, with more on the way.
+  - Great highway closes an average of 65 days per year due to sand mitigation, so we actually have
+    pretty good data about the effect on traffic. The impact to commute time, even prior to the
+    aforementioned improvements, is... [3 minutes][1].
+  - Funding has not been secured for full park development, but it's pretty typical for that to come
+    after the site has been procured. However, if K passes, the promenade will be turned over to Rec
+    & Parks, and they will be able to build basic park amenities, similar to what we've seen
+    installed on Car-Free JFK, out of their existing budget.
+  - Sand will still need to be cleared to prevent the dunes from consuming the promenade, however,
+    it can be done much less frequently. [The city controller has estimated][4] yearly cost savings
+    of 350k-700k. Additional sand mitigation work could be implemented as part of the park
+    build-out, but that is out of scope of this ballot prop.
+  - The team behind Yes on K did an awesome [Reddit AMA][5], check it out!
+  - The opportunity to solidify this coastal space as a refuge for people and wildlife is
+    significant, and a chance to do so without significant impact not already being realized is
+    rare. Vote yes, and don't let the chance slip away!
+
+[1]: https://sfrecpark.org/DocumentCenter/View/24168/Great-Highway-June-2024-Report-to-BOS-Final
+[2]: https://www.sfchronicle.com/sf/article/s-f-great-highway-closed-to-cars-19431219.php
+[3]: https://www.sfmta.com/projects/great-highway-and-outer-sunset-traffic-management-project
+[4]: https://www.sf.gov/sites/default/files/2024-08/Prop%20K%20-%20Great%20Highway%20-%20CON%20VIP%20Letter%20-%20Signed.pdf
+[5]: https://www.reddit.com/r/sanfrancisco/comments/1g0o112/were_the_yes_on_k_team_the_campaign_to_bring_a/
+
+### L: Tax Rideshare to Fund Muni Operational Costs
 {% include weak-yes.html content="Weirdly specific tax but I love me some MUNI" %}
 
-#### M: Business Tax Reform to Support Small Businesses
+### M: Business Tax Reform to Support Small Businesses
 {% include strong-yes.html content="It shouldn't be so damn hard to start a small business in SF." %}
 
-#### N: Create Fund to Support First Responder Students
+  - Adjusts city business taxes to account for post-COVID hybrid work. Generally seeks to work in
+    favor of small businesses
+  - An economic [impact report][1] estimates the reform will create 1900 jobs and a $338 million
+    increase to city GDP over the next 20 years
+  - [Grow SF][2] and [SPUR][3] have excellent breakdowns of the details, I won't repeat them here.
+  - Does likely reduce tax revenue a bit, but the larger problem is the reliance on commercial real
+    estate, which the proposal does not affect.
+  - If this does not pass, a 2020 prop will result in a tax hike for small businesses that could see
+    a resulting wave of closures.
+  - Widely popular- all of the major mayoral candidates [have come together][4] to push this change.
+    It is endorsed by the [SF Chronicle][5] and pretty much [all of the voter guides][6]. The
+    [League of Pissed Off Voters][7] likes it, but is trying to play a numbers game between it and
+    L.
+
+[1]: https://www.sf.gov/sites/default/files/2024-08/Local%20Small%20Business%20Tax%20Cut%20Ordinance_Economic%20Impact%20Report%20-%20updated.pdf
+[2]: https://www.spur.org/voter-guide/2024-11/sf-prop-m-gross-receipts-tax-reform
+[3]: https://growsf.org/voter-guide/#prop-m
+[4]: https://www.sfchronicle.com/election/article/push-to-pass-s-f-business-tax-prop-m-in-gear-19871328.php
+[5]: https://www.sfchronicle.com/opinion/editorials/article/endorsement-prop-m-taxes-sf-19844892.php
+[6]: https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/2/a8/2a81928a-98ad-11ef-91cc-9fa7526920f9/67256b321e5f5.pdf.pdf
+[7]: https://www.theleaguesf.org/#PropM
+
+### N: Create Fund to Support First Responder Students
 {% include weak-yes.html content="Probably meaningless, but it can't hurt!" %}
 
-#### O: Support Reproductive Health
+### O: Support Reproductive Health
 {% include strong-yes.html content="I mean sure yeah" %}
 
-## State
+# State
 
-### Elected Offices
+## Elected Offices
 
-#### CA State Senate
+### CA State Senate
 
-### Props
+## Props
 
-#### 2: School Bond
+### 2: School Bond
 
-#### 3: Fix the CA Constitution's Defunct Definition of Marriage
+### 3: Fix the CA Constitution's Defunct Definition of Marriage
 {% include strong-yes.html content="Yes" %}
 
-#### 4: Bond for Water Stuff
+### 4: Bond for Water Stuff
 
-#### 5: Chip Away at CA's Most Terrible Law
+### 5: Chip Away at CA's Most Terrible Law
 
-#### 6: Disallow Involuntary / Unpaid Labor in CA Prisons
+### 6: Disallow Involuntary / Unpaid Labor in CA Prisons
 {% include strong-yes.html content="Yes" %}
 
-#### 32: Minimum Wage Bump
+### 32: Minimum Wage Bump
 {% include weak-yes.html content="Yes" %}
 
-#### 33: Give NIMBYs a Tool to Avoid Housing Development
+### 33: Give NIMBYs a Tool to Avoid Housing Development
 {% include strong-no.html content="No" %}
 
-#### 34: This One is Specifically For You, Michael Weinstein
+### 34: This One is Specifically For You, Michael Weinstein
 {% include weak-yes.html content="Yes" %}
 
-#### 35: Tax to Fund Medi-Cal
+### 35: Tax to Fund Medi-Cal
 
-#### 36: Harsher Punishments for Drug Crimes
+### 36: Harsher Punishments for Drug Crimes
 
-## Federal
+# Federal
 
-### Elected Offices
+## Elected Offices
 
-#### President
+### President
 
 *Kamala Harris*
 {% include strong-endorse.html content="Kamala Harris and Tim Walz" %}
 
 For [hopefully obvious reasons!](https://www.youtube.com/watch?v=ivVOPWrFfW4)
 
-## References and Additional Reading
+# References and Additional Reading
