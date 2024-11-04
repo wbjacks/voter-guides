@@ -10,8 +10,10 @@ categories: jekyll update
 I am, first and foremost, an urbanist. I grew up in a very car-focused Texas suburb, but have now
 lived in San Francisco for about 11 years, mostly without a car (I bought my first car this year, in
 fact, much to my dismay...). That decade has taught me the value of pedestrian-oriented density as
-well as highlighted where the city of San Francisco falls short on those goals. As such, my top
-priorities are as follows (not necessarily in order):
+well as highlighted where the city of San Francisco falls short on those goals. Additionally, my
+wife (along with many of our friends) is a daily long-distance runner- her safety (as well as yours
+and mine!) is very tangibly reliant on safe street design and pedestrian-oriented infrastructure. As
+such, my top priorities are as follows (not necessarily in order):
 
   - Market-rate housing development
   - Safe streets infrastructure
@@ -46,16 +48,24 @@ quality guides to the politics of the city.
 
 #### Mayor
 
-*Strong Endorsement: #1 London Breed*
+{% include strong-endorse.html content="#1 London Breed" %}
 
-Mayor Breed is the only choice if you dream of San Francisco as a proper, first-class urban
-environment. She has been [a supporter of housing development since day 1][1], before it was cool.
-She has pushed hard to build solid bike infrastructure throughout the city, and is the only moderate
-candidate in the field who supported both Car-Free JFK ([actually, sponsored][2]) and [Ocean Beach
-Park][3].  She [supported the recall][4] of 3 members of the school board as they dragged their feet
-on providing a plan to reopen schools during COVID. She has been an advocate for public safety,
-having [sponsored last spring's Prop E][5], which provided expanded options (surveillance cameras,
-drones) for smart policing to SFPD.
+We all want change for the city, and all of the candidates seek to position themselves as the only
+option for that change. But, if the change you want involves housing, walking, biking, and yes,
+public safety, rather than reverting to a civic model invented by midcentury planners, London Breed
+is the only choice for Mayor. She has been [a supporter of housing development since day 1][1],
+before it was cool.  She has pushed hard to build solid bike infrastructure throughout the city, and
+is the only moderate candidate in the field who supported both Car-Free JFK ([actually,
+sponsored][2]) and [Ocean Beach Park][3].  She [supported the recall][4] of 3 members of the school
+board as they dragged their feet on providing a plan to reopen schools during COVID. She has been an
+advocate for public safety, having [sponsored last spring's Prop E][5], which provided expanded
+options (surveillance cameras, drones) for smart policing to SFPD. She is an advocate for safe
+biking infrastructure, and [fully 70% of the protected bike lanes in the city were built under her
+administration][11]. She authored [a prop in 2022][12] for a $400 million bond to fund Muni
+infrastructure improvements- it failed narrowly, only about a single percent short of the 2/3rds
+majority it needed. She continues [to be an advocate for public transit][13]- though, admittedly,
+I'd love to see more about long-term projects, like for example [the potential of a Geary / 19th ave
+subway line][14], in her priorities for her next term.
 
 Many who object to Mayor Breed's tenure point to the current state of the city, even magnifying a
 message of fear to draw support ([looking at you, Mark Farrell][6]). And to be sure, there's a lot
@@ -86,11 +96,12 @@ a hostile Board of Supervisors, holding consistently to a message of hope for th
 [8]: https://apnews.com/article/san-francisco-homeless-encampments-c5dad968b8fafaab83b51433a204c9ea
 [9]: https://www.sf.gov/news/san-francisco-downtown-roadmap-one-year-update-progress-economic-revitalization-0
 [10]: https://www.sf.gov/news/san-francisco-downtown-roadmap-one-year-update-progress-economic-revitalization-0
+[11]: https://sfbike.org/news/endorsing-london-breed-for-mayor/
+[12]: https://ballotpedia.org/San_Francisco,_California,_Proposition_A,_Public_Transportation_and_Streets_Bond_Issue_(June_2022)
+[13]: https://londonbreed.medium.com/mayor-london-breed-2024-transportation-vision-58736d9e30f6
+[14]: https://www.sfcta.org/projects/geary19th-avenue-subway-and-regional-connections-study
 
-
-TODO: Discuss corruption allegations
-
-*Weak Endorsement: #2 Daniel Lurie*
+{% include weak-endorse.html content="#2 Daniel Lurie" %}
 
 I found the [Chronicle endorsement][1] of Lurie to be surprising, but somewhat convincing, even if I
 don't accept their criticism of Mayor Breed. I like that he's aggressive on pushing interim housing
@@ -101,7 +112,7 @@ housing _throughout_ the city, the so-called "Paris model".
 I don't like his stance on transit- he supports [returning rideshare to car-free Market][3], which
 in my opinion would eliminate all street safety gains from that project and be essentially the same
 as killing it. I also don't like that many of his endorsements, people who are potentially on deck
-for department head roles, are notable NIMBY and anti-transit names. I don't like that he is
+for department head roles, are notable NIMBY and anti-transit names. I really don't like that he is
 [against Prop K and has no endorsement of the (_very_ popular) Car-Free JFK initiative][4].
 
 Finally, I really don't like his [complete lack of experience][5]. There is an argument that he
@@ -114,9 +125,10 @@ decades of experience as a city employee to draw from, experience that Lurie lac
 city is complicated work, and relying on established relationships to get things done can be
 incredibly valuable.
 
-Ultimately, Lurie gets my #2 because he's priorities are largely aligned with my own and I think he
-could do some good, even if I worry his inexperience would just as likely cause problems as provide
-fresh perspective.
+Ultimately, Lurie gets my #2 because his priorities for housing are largely aligned with my own and
+I think he could do some good, even if I don't agree with his perspective on transit and pedestrian
+infrastructure and I worry his inexperience would just as likely cause problems as provide fresh
+perspective.
 
 [1]: https://www.sfchronicle.com/opinion/editorials/article/endorsement-san-francisco-mayor-19763774.php
 [2]: https://daniellurie.com/priorities/housing/
@@ -128,17 +140,75 @@ fresh perspective.
 
 *Why not Farrell?*
 
-  - Feud https://sfstandard.com/2024/10/07/the-nasty-decade-long-feud-making-the-mayors-race-a-grudge-match/
-  - Corruption https://sfstandard.com/2024/10/07/sf-mayors-criminal-investigation-mark-farrell/
-  - Corruption 2 https://missionlocal.org/2024/07/see-how-they-run-farrells-questionable-campaign-ethics-history/
-  - Corruption 3 https://www.sfchronicle.com/politics/article/mark-farrell-loan-disclosure-house-19808908.php
-  - Cars on market https://sfstandard.com/2024/02/13/market-street-san-francisco-doom-loop-mark-farrell/
-  - Housing isolated to eastern neighborhoods
-    - https://www.sfexaminer.com/news/politics/sf-mayoral-candidates-share-plans-to-meet-housing-element/article_fee43680-8689-11ef-b215-3f070fc66c2d.html#:~:text=Winning%20the%20housing%20vote
-    - https://www.youtube.com/watch?v=eFf-ZpJ9uZA&t=2019s
-        -> State bullseye is housing requirements
-        -> Local control
-        -> Upzone every neighborhood / "very smart manner" / "expectation of highrises"
+I'll start with the most important thing: I don't think Mark Farrell's vision for the city is
+aligned with my own, nor that of any real urbanist. He is strongly against the [city's proposal][8]
+to meet state-mandated housing growth (that is, mid-rise density across the whole city, a notable
+change from the status quo in that it includes the western neighborhoods). Rather, he would prefer
+to [isolate housing development to financial district][9], an area already shouldering most of the
+burden of housing development and one for which improvement will have diminishing returns. His claim
+that this could meet the state housing mandate is questionable at best, and comes from the same
+bad-faith NIMBY motivations that killed housing production and drove up living costs in the first
+place.
+
+In an [interview][10] with Joe Eskenazi from Mission Local earlier in his campaign, Farrell dropped
+a flurry of anti-housing dog-whistles, likely trying to attract wealthier landowner resident
+support. Some quotes to highlight:
+
+> What we have to figure out from a housing perspective is how to get the state with a bullseye off
+> our back.
+
+This refers to the city's [Housing Element][11], essentially a development plan required by the
+state of California for all cities to meet the housing needs of their residents. Obviously, it
+hasn't been working, because housing in California sucks. So, recently, the state put some teeth
+behind it with the so-called ["builder's remedy"][12]. This is a law that allows developers to skip
+local planning ordinances if that city is out of compliance with their housing element (or if that
+element never actually meets the housing needs of the people in the city!). Housing advocates love
+this, as it has seen some real movement on an otherwise pretty stagnant development market, and I am
+in particular a fan of San Francisco's plan to build mid-rise housing all around the city, similar
+to what you might see in Paris- a plan Farrell calls "absolutely insane". Here, Farrell is
+discussing ways to get around this requirement, ostensibly to provide housing on his own terms but
+in practice to provide insufficient housing to make the city affordable to its residents.
+
+> We can up zone that neighborhood, people have no expectations of a quaint neighborhood or a street
+> like Valencia downtown.
+
+The literal definition of NIMBYism- Mark wants housing, but not in his quaint neighborhoods.
+
+And, for the record, we've literally tried this- [here's][13] the housing element plan from 2007,
+known as the "Eastern neighborhoods plan", which concentrated development to the city's Eastern
+waterfront. Ask yourself, did it work? Is the city's housing situation better now than it was in
+2007? The answer should be obvious.
+
+Furthermore, Farrell doesn't meet the bar of other urbanist priorities. He's made the push against a
+new park at Ocean Beach, replacing a highway that has millions of dollars of pending maintenance
+with a beachfront promenade for cyclists and pedestrians, [central to his campaign][14]. He wants to
+[undo car-free Market street][15], a street safety program I enjoy every day on my commute to work
+(yes, I go in 5x per week- what can I say, I love the city! And I live in a 1 BR apartment with my
+wife...).
+
+Perhaps less critically, I also really hate how he has taken advantage of a fear-driven narrative on
+public safety and the state of the city to drive support after sitting out the worst of the city's
+difficult last few years. When I visit my family in Texas, I often get concerned questions about my
+safety on the dangerous and lawless streets of San Francisco- I'm sure many living here have similar
+experiences. I do my best to cheerfully extol the beauty of the city, it's fantastic culture,
+peerless parks and nature, and wonderful, unique people. I tell people to visit, and question their
+source of factual news. But the truth is, I hate these questions, and I'm getting really goddamn
+tired of fielding them. I absolutely will not stand for someone seeking to be the political leader
+and face of this city leveraging and boosting a message that is misleading, inaccurate, and harmful
+to all of us.
+
+[8]: https://sfplanning.org/project/expanding-housing-choice
+[9]: https://www.sfexaminer.com/news/politics/sf-mayoral-candidates-share-plans-to-meet-housing-element/article_fee43680-8689-11ef-b215-3f070fc66c2d.html#:~:text=Winning%20the%20housing%20vote
+[10]: https://www.youtube.com/watch?v=eFf-ZpJ9uZA&t=2019s
+[11]: https://generalplan.sfplanning.org/I1_Housing.htm
+[12]: https://abag.ca.gov/sites/default/files/documents/2022-10/Builders-Remedy-and-Housing-Elements.pdf
+[13]: https://www.sfgov.org/sfplanningarchive/sites/default/files/FileCenter/Documents/3963-EN_DEIR_Comments_and_Responses.pdf
+[14]: https://www.nopropk.com/endorsements
+[15]: https://sfstandard.com/2024/02/13/market-street-san-francisco-doom-loop-mark-farrell/
+
+- Corruption https://sfstandard.com/2024/10/07/sf-mayors-criminal-investigation-mark-farrell/
+- Corruption 2 https://missionlocal.org/2024/07/see-how-they-run-farrells-questionable-campaign-ethics-history/
+- Corruption 3 https://www.sfchronicle.com/politics/article/mark-farrell-loan-disclosure-house-19808908.php
 
 ### Props
 
@@ -274,7 +344,8 @@ in the short term." %}
 #### President
 
 *Kamala Harris*
+{% include strong-endorse.html content="Kamala Harris and Tim Walz" %}
 
-Yeahh [this one should be obvious](https://www.youtube.com/watch?v=ivVOPWrFfW4).
+For [hopefully obvious reasons!](https://www.youtube.com/watch?v=ivVOPWrFfW4)
 
 ## References and Additional Reading
