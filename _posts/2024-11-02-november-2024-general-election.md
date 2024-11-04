@@ -39,7 +39,7 @@ as I am writing this pretty late!) I will try to put down an endorsement on ever
 make up your own mind" and "strong" as "I am voting this way, and I really think you should too!".
 
 In an effort to support the reader doing their own research, I will do my best to cite sources in
-my comments. Time permitting, I'll also include a list of additional resources that I thing are
+my comments. Time permitting, I'll also include a list of additional resources that I think are
 quality guides to the politics of the city.
 
 ## City
@@ -253,34 +253,34 @@ it." %}
 
   - Competing measure to Prop D sponsored by Peskin.
   - Peskin is excellent at using complicated bureaucracy to wield power and [push his personal
-    priorities through][1], so this measure is very much in line with his governing methods.
+    priorities through][5], so this measure is very much in line with his governing methods.
   - Creates another committee without actually committing to do anything.
-  - [Relevant XKCD][2]
+  - [Relevant XKCD][6]
 
-[1]: https://sfstandard.com/opinion/2024/07/08/what-would-it-look-like-if-aaron-peskin-became-mayor-ask-bobs-donuts/
-[2]: https://xkcd.com/927/
+[5]: https://sfstandard.com/opinion/2024/07/08/what-would-it-look-like-if-aaron-peskin-became-mayor-ask-bobs-donuts/
+[6]: https://xkcd.com/927/
 
 #### F: Deferred SFPD Retirement for Extra Pay
 {% include strong-yes.html content="Good safeguards and reasonable way to buffer the police force
 in the short term." %}
 
-  - We have a [significant police shortage][1] that is a priority to reduce for pretty much all of
+  - We have a [significant police shortage][7] that is a priority to reduce for pretty much all of
     the serious mayoral candidates.
   - This ballot measure allows Police to work past their typical retirement date to buffer the force
     reduction as we work to improve the recruit pipeline
   - Officers would work at a slightly reduced pay, and there are [reasonable measures to prevent
-    fraud][2]
+    fraud][8]
   - Expires in 5 years unless action is taken by the Board of Supervisors
 
-[1]: https://www.sf.gov/sites/default/files/2024-01/PoliceCommission2724-STAFFING%20PRESENTATION%202023%20-%2020240108.pdf
-[2]: https://growsf.org/voter-guide/#prop-f
+[7]: https://www.sf.gov/sites/default/files/2024-01/PoliceCommission2724-STAFFING%20PRESENTATION%202023%20-%2020240108.pdf
+[8]: https://growsf.org/voter-guide/#prop-f
 
 #### G: Subsidies for Certain Categories of Low-Income Housing
 
 #### H: More Pension for Firefighters
 
 #### I: More Pension for Nurses
-{% include weak-no.html content="They already got pension extensions in this years strike." %}
+{% include weak-no.html content="" %}
 
 #### J: Combine a Bunch of Departments Managing Kid Stuff into One
 {% include strong-yes.html content="A simpler structure for better oversight and efficiency" %}
@@ -311,23 +311,23 @@ in the short term." %}
 #### 2: School Bond
 
 #### 3: Fix the CA Constitution's Defunct Definition of Marriage
-{% include strong-yes.html content="Vote yes" %}
+{% include strong-yes.html content="Yes" %}
 
 #### 4: Bond for Water Stuff
 
 #### 5: Chip Away at CA's Most Terrible Law
 
 #### 6: Disallow Involuntary / Unpaid Labor in CA Prisons
-{% include strong-yes.html content="Vote yes" %}
+{% include strong-yes.html content="Yes" %}
 
 #### 32: Minimum Wage Bump
-{% include weak-yes.html content="Vote yes" %}
+{% include weak-yes.html content="Yes" %}
 
 #### 33: Give NIMBYs a Tool to Avoid Housing Development
-{% include strong-no.html content="Vote yes" %}
+{% include strong-no.html content="No" %}
 
 #### 34: This One is Specifically For You, Michael Weinstein
-{% include weak-yes.html content="Vote yes" %}
+{% include weak-yes.html content="Yes" %}
 
 #### 35: Tax to Fund Medi-Cal
 
