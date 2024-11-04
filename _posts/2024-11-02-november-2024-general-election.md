@@ -371,6 +371,49 @@ in the short term." %}
 ### 4: Bond for Water Stuff
 
 ### 5: Chip Away at CA's Most Terrible Law
+{% include strong-yes.html content="It shouldn't be harder to finance local projects than pass a new
+law through the US Senate" %}
+
+  - Background: [1978's Prop 13][1], among other things, requires that taxes and bonds get a 2/3rds
+    majority to pass, which makes it incredibly difficult to fund things.
+  - This was done to further protect property taxes, as local bonds (as opposed to state bonds,
+    which remain at a 55% pass threshold) are generally funded through property taxes.
+  - This requirement has lost us an opportunity to [fund Muni projects][2], fund [fire protection
+    infrastructure in Santa Cruz][3], and lost Berkeley [$650 million for affordable housing][4].
+  - This CA prop allows local elections to raise new bonds at a 55% majority, rather than 2/3rds.
+  - Examples of this are currently on our ballot as Prop A and Prop B.
+  - There is precendence for this kind of legislation: in 2000, voters passed [Prop 39][5], which
+    dropped the supermajority requirement for bonds related to schools.
+  - [The Chronicle endorsed no][6] on prop 5, pointing to a carve out for real estate interest
+    groups that disallow bonds for affordable housing projects that displace smaller homes (single
+    family lots up to fourplexes).
+  - The Chronicle is write to wag their finger at this measure, which was likely added to give the
+    bill political viability. However:
+    - Large housing projects are generally not built on such small lots because the economics don't
+      pencil out without nontrivial density.
+    - The carve out is [included separately][7] from prop 5, and as such could be repealed
+      separately
+    - It was probably necessary to add this for this build to get anywhere close to success: the
+      California Association of Realtors, who had already raised $20 million in opposition, [agreed
+      to not contest the bill in return for this carve out.][8]
+    - And indeed, it is typically incredibly hard to weaken prop 13, as entrenched wealth tends to
+      defend the significant tax breaks it provides them. For example, a [2020 ballot initiative][8]
+      to force commercial and industrial properties to be taxed at market value rather than purchase
+      value (which, [due to a loophole][9], could be many decades old), failed. And indeed, even
+      with the carve out, polling suggests this ballot measure is still a toss-up.
+  - Ultimately, this is an important measure that, while flawed by necessity, will work to improve
+    the housing situation in California for everyone.
+
+[1]: https://ballotpedia.org/California_Proposition_13,_Tax_Limitations_Initiative_(June_1978)
+[2]: https://ballotpedia.org/San_Francisco,_California,_Proposition_A,_Public_Transportation_and_Streets_Bond_Issue_(June_2022)
+[3]: https://www.santacruzsentinel.com/2023/11/27/scotts-valley-fire-bond-measure-fails-to-pass-by-less-than-1/
+[4]: https://www.berkeleyside.org/2022/11/08/berkeley-election-measure-l-vacancy-tax-bond
+[5]: https://ballotpedia.org/California_Proposition_39,_Decrease_Supermajority_from_Two-Thirds_to_55%25_for_School_Bonds_Amendment_(2000)
+[6]: https://www.sfchronicle.com/opinion/editorials/article/prop-5-housing-california-19768871.php
+[7]: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2813
+[8]: https://calmatters.org/housing/2024/06/california-housing-realtors-ballot-measure/
+[9]: https://en.wikipedia.org/wiki/1978_California_Proposition_13#Property_transfer_loophole
+
 
 ### 6: Disallow Involuntary / Unpaid Labor in CA Prisons
 {% include strong-yes.html content="Yes" %}
