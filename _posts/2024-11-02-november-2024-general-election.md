@@ -212,10 +212,17 @@ to all of us.
 {% include strong-yes.html content="Schools need infrastructure improvement, this is a good way to pay for
 it." %}
 
+  - Bonds are a great way to pay for necessary things- they amortize the cost of large projects and
+    take advantage of inflation on the payments over time
+  - This is a reasonably necessary thing
+
 ### B: Healthcare, Streets, and Shelter Bond
 {% include strong-yes.html content="Vote yes" %}
 
+  - See prop A
+
 ### C: Inspector General to Investigate Fraud
+{% include weak-yes.html content="Vote yes" %}
 
 ### D: Limit City to 64 Commissions
 {% include weak-yes.html content="Tough one, but I am not letting perfect be the enemy of good." %}
@@ -278,6 +285,17 @@ in the short term." %}
 [2]: https://growsf.org/voter-guide/#prop-f
 
 ### G: Subsidies for Certain Categories of Low-Income Housing
+{% include weak-yes.html content="The subsidies only work if you can rely on them for rent" %}
+
+  - The city [currently funds][1] subsidies for extremely low income housing
+  - The alternative for these folks is generally homelessness, and it would look super bad to not
+    provide the subsidies because then they couldn't pay rent
+  - However, this ballot measure ensures that's the case, so folks can trust that money won't
+    disappear
+  - Budget set-asides are generally a bad idea, but the reliability of this one seems particularly
+    important
+
+[1]: https://www.sfchronicle.com/opinion/editorials/article/endorsement-proposition-g-sf-19763462.php
 
 ### H: More Pension for Firefighters
 
@@ -286,6 +304,10 @@ in the short term." %}
 
 ### J: Combine a Bunch of Departments Managing Kid Stuff into One
 {% include strong-yes.html content="A simpler structure for better oversight and efficiency" %}
+
+  - Widely popular measure to combine a bunch of commission that manage some funds for children into
+    one
+  - Better oversight, more efficient
 
 ### K: New Ocean Beach Promenade!!!
 {% include strong-yes.html content="Parks good, road crumbling into the sea bad." %}
@@ -324,6 +346,15 @@ in the short term." %}
 ### L: Tax Rideshare to Fund Muni Operational Costs
 {% include weak-yes.html content="Weirdly specific tax but I love me some MUNI" %}
 
+  - I admittedly don't fully understand it, but there's a poison pill for this one such that it
+    won't take effect if M passes with more votes.
+  - That's ok- M is probably more important, as this will only fund some operating costs and not
+    capital improvements
+  - I also don't love weirdly targeted taxes like this, but I do love Muni, and Lyft/Uber have not
+    been shy about using legislation to their advantage
+  - Hopefully, both pass and L gets more votes, at which point both take effect. But, if not, I can
+    live with that.
+
 ### M: Business Tax Reform to Support Small Businesses
 {% include strong-yes.html content="It shouldn't be so damn hard to start a small business in SF." %}
 
@@ -352,6 +383,9 @@ in the short term." %}
 ### N: Create Fund to Support First Responder Students
 {% include weak-yes.html content="Probably meaningless, but it can't hurt!" %}
 
+  - Does nothing unless private donors actually fund... the fund
+  - But maybe they will, so why not?
+
 ### O: Support Reproductive Health
 {% include strong-yes.html content="I mean sure yeah" %}
 
@@ -365,10 +399,15 @@ in the short term." %}
 
 ### 2: School Bond
 
-### 3: Fix the CA Constitution's Defunct Definition of Marriage
-{% include strong-yes.html content="Yes" %}
+### 3: Fix the CA Constitution's Defunct Definition of Marriage {% include strong-yes.html
+content="Yes" %}
+  - This is just an embarrassing misalignment between our constitution and the actual law
+  - Constitution defines marriage between a man and a woman, which is unenforceable due to
+    Obergefell v. Hodges (which, yay!)
+  - Awkward and shameful, let's fix it
 
 ### 4: Bond for Water Stuff
+{% include strong-yes.html content="Bond good, water good" %}
 
 ### 5: Chip Away at CA's Most Terrible Law
 {% include strong-yes.html content="It shouldn't be harder to finance local projects than pass a new
@@ -422,14 +461,21 @@ law through the US Senate" %}
 {% include weak-yes.html content="Yes" %}
 
 ### 33: Give NIMBYs a Tool to Avoid Housing Development
-{% include strong-no.html content="No" %}
+{% include strong-no.html content="Please build housing you schmucks" %}
+
+  - In short, NIMBYs around California [have promised][1] that they will use this to pass rent
+    control requirements so extreme that it will intentionally stifle housing development
+
+[1]: https://www.politico.com/newsletters/california-playbook/2024/04/02/republicans-for-rent-control-00150082
 
 ### 34: This One is Specifically For You, Michael Weinstein
 {% include weak-yes.html content="Yes" %}
 
 ### 35: Tax to Fund Medi-Cal
+{% include weak-no.html content="Yes" %}
 
 ### 36: Harsher Punishments for Drug Crimes
+{% include weak-no.html content="Yes" %}
 
 # Federal
 
