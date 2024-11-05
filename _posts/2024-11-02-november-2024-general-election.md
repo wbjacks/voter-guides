@@ -399,8 +399,8 @@ in the short term." %}
 
 ### 2: School Bond
 
-### 3: Fix the CA Constitution's Defunct Definition of Marriage {% include strong-yes.html
-content="Yes" %}
+### 3: Fix the CA Constitution's Defunct Definition of Marriage
+{% include strong-yes.html content="Yes" %}
   - This is just an embarrassing misalignment between our constitution and the actual law
   - Constitution defines marriage between a man and a woman, which is unenforceable due to
     Obergefell v. Hodges (which, yay!)
