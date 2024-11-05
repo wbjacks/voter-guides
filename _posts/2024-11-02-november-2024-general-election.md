@@ -472,10 +472,10 @@ law through the US Senate" %}
 {% include weak-yes.html content="Yes" %}
 
 ### 35: Tax to Fund Medi-Cal
-{% include weak-no.html content="Yes" %}
+{% include weak-no.html content="No" %}
 
 ### 36: Harsher Punishments for Drug Crimes
-{% include weak-no.html content="Yes" %}
+{% include weak-no.html content="No" %}
 
 # Federal
 
