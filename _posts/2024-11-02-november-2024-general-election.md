@@ -437,9 +437,37 @@ law through the US Senate" %}
 
 ### President
 
-*Kamala Harris*
 {% include strong-endorse.html content="Kamala Harris and Tim Walz" %}
 
 For [hopefully obvious reasons!](https://www.youtube.com/watch?v=ivVOPWrFfW4)
 
 # References and Additional Reading
+
+## Recommended Voter Guides
+
+If you follow my links on most of my endorsements, you'll probably have seen most of these already,
+but here is my list of favorite voter guides that I reference regularly.
+
+  - [SF Chronicle][1]
+    - Very high quality, usually posts an article per prop as well as endorsements for elected officials. 
+  - [SPUR][2]
+    - Excellent policy org that does a great job of staying neutral and sticking to the facts.
+  - [GrowSF][3]
+    - More obviously moderate, but publishes a high quality guide that I refer to a lot.
+    - Note that this link doesn't appear to be a permalink, so if you're reading this in the future
+      it might not point to the correct guide.
+
+[1]: https://www.sfchronicle.com/projects/2024/california-sf-election-endorsements/
+[2]: https://www.spur.org/voter-guide/2024-11
+[3]: https://growsf.org/voter-guide/
+
+## Great Personal Voter Guides
+
+Some folks on the YIMBY internal slack have been sharing around (excellent, inspirational) voter
+guides, and I referred to them extensively when making my own guide. Thanks to them!
+
+  - [Mike Chen][1]
+  - [Luke Swartz][2]
+
+[1]: https://coda.io/@mikechensf/2024-11-voter-guide
+[2]: https://docs.google.com/document/d/1379hMy2uxp8ErjllnWwbCEtPrTSKSmPEZ82M91ySzdQ/edit?usp=sharing
